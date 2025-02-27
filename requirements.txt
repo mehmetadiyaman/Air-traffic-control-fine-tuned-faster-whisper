@@ -1,0 +1,15 @@
+--index-url https://download.pytorch.org/whl/cu124
+
+audiomentations
+datasets
+evaluate
+huggingface_hub
+jiwer
+num2words
+numpy
+pandas
+soundfile
+torch
+torchvision
+torchaudio
+transformers[torch]
